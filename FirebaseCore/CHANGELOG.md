@@ -1,3 +1,6 @@
+# FirebaseCore 7.8.0
+- [fixed] Fixed missing doc comment in `FirebaseVersion()`.
+
 # FirebaseCore 7.6.0
 - [fixed] Fixed build warnings introduced with Xcode 12.5. (#7431)
 
