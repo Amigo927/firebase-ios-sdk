@@ -108,8 +108,8 @@ let package = Package(
     ),
     .package(
       name: "GTMSessionFetcher",
-      url: "https://github.com/google/gtm-session-fetcher.git",
-      "1.4.0" ..< "2.0.0"
+      url: "https://github.com/woxtu/gtm-session-fetcher.git",
+            .branch("fix-spm")
     ),
     .package(
       name: "nanopb",
